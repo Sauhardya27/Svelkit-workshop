@@ -1,1 +1,1 @@
-<h1>Footer</h1>
+<h1 class="font-bold text-3xl">Footer</h1>
